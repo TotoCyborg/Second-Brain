@@ -1,0 +1,12 @@
+---
+connections:
+  - "[[Storia]]"
+source:
+  - Libro Storia
+  - Prof. Rosa Scarsi
+---
+Nel marzo del 1919 M fonda i [[Fasci]] di Combattimento. Il movimento fascista di questi anni conobbe però scarsa fortuna, alle elezioni del 19 non portarono alla Camera nessun deputato. Nel 1920 M creò le squadre d'azione per contrastare il potere delle leghe rosse, in breve tempo lo squadrismo dilagò sia nel nord che nel centro Italia con grandi episodi di efferata violenza.  Nelle campagne del Nord esso riuscì a diventare un movimento di massa perché seppe raccogliere consensi anche tra i piccoli proprietari, gli affittuari e i coloni. In generale coloro che appoggiavano l'ideologia fascista erano tutti quei cittadini che erano scontenti dallo scarso compenso dato all'Italia in quanto una tra le vittoriose della Grande Guerra.
+
+La classe politica era convinta di poter usare il movimento fascista per poi riassorbirlo nei meccanismi del Parlamento, così Giolitti anticipò le elezioni al maggio del 1921 e inserì i candidati fascisti nei blocchi nazionali, questi ultimi fecero eleggere ben 35 deputati, tra cui M. Il governo appena formatosi, presieduto da Bonomi, si mise quindi come obiettivo quello di riuscire ad arginare la diffusione dello squadrismo, obiettivo che anche M cercò di raggiungere trasformando i fasci nel nuovo [[Partito Nazionale Fascista]] (PNF). Forte di oltre 200.000 iscritti il PNF risultò il partito italiano con il maggior numero di aderenti, ma le violenze non terminarono, anzi, quando i sindacati proclamarono lo sciopero generale legalitario per il 1 agosto del 1922, gli squadristi erano i padroni incontrastati delle piazze italiane, dove venivano costantemente attuate rappresaglie contro ogni tipo di resistenza.
+
+Il 24 ottobre del 22 a Napoli, M annunciò ai suoi 'O ci daranno il governo, o lo prenderemo calando su Roma', fu così che poco più di 25.000 fascisti da tutta Italia, la notte tra il 27 e il 28 ottobre, marciarono fino alle porte di Roma per mettere pressioni al Re e al Presidente del Consiglio Luigi Facta. Come ultimo atto della sua legislatura Facta, propose al Re di firmare lo Stato d'Assedio per poter far intervenire l'esercito nei confronti delle camicie nere, ma il re non la firmò, permettendo così a M di proporsi come l'unico a poter risollevare l'Italia e farsi affidare il ruolo di Presidente del Consiglio. 

@@ -1,0 +1,6 @@
+---
+connections:
+  - "[[VPN]]"
+---
+Una remote-access VPN consente ai singoli utenti di stabilire connessioni sicure con la LAN aziendale remota, vi sono due componenti indispensabili per la sua realizzazione, il Server NAS (Network Access Server) è il primo, esso può essere o un server dedicato o un'applicazione software in esecuzione su un server condiviso. Attraverso esso l'utente si connette a Internet e può utilizzare una VPN, richiede all'utente di fornire le credenziali per accedere alla VPN e per autenticare queste ultime il NAS utilizza il proprio processo di autenticazione o si avvale di un server di autenticazione separato in esecuzione sulla rete, come il RADIUS AAA Server (AAA sta per i servizi: Authentication, Authorization, Accounting). 
+L'altro componente di un accesso remoto VPN è un software VPN client, inoltre è necessario un firewall che faccia da barriera tra la rete privata e Internet. In genere le aziende esperte decidono di implementare e gestire in proprio la VPN ad accesso remoto, anche se le aziende possono decidere di esternalizzare (outsourcing) i propri servizi VPN tramite il provider dei servizi enterprise. Tirando le somme una Remote-access VPN è adatta per i singoli dipendenti/utenti o per aziende con filiali costituite da piccoli uffici.
