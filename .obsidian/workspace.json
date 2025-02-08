@@ -4,67 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "cde148d5b00f6ded",
+        "id": "e027670d02d3857c",
         "type": "tabs",
         "children": [
           {
-            "id": "a4100f6399796f7f",
+            "id": "22ce77c7933c4f0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note/Partito Nazionale Fascista.md",
+                "file": "Note/Regime Totalitario.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Partito Nazionale Fascista"
-            },
-            "group": "b218ed6d8664f97f"
-          }
-        ]
-      },
-      {
-        "id": "37cea9055c2bd285",
-        "type": "tabs",
-        "children": [
+              "title": "Regime Totalitario"
+            }
+          },
           {
-            "id": "7f770ac07561595e",
+            "id": "2a9f93eb54a096ef",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Note/Partito Nazionale Fascista.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.6720988190488189,
-                  "close": false
-                }
-              },
+              "type": "graph",
+              "state": {},
               "icon": "lucide-git-fork",
-              "title": "Grafo di Partito Nazionale Fascista"
-            },
-            "group": "b218ed6d8664f97f"
+              "title": "Vista grafo"
+            }
           }
         ]
       }
@@ -98,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "terza",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -153,17 +118,32 @@
             }
           },
           {
+            "id": "175c9e719aff34f1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Note/Regime Totalitario.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Struttura di Regime Totalitario"
+            }
+          },
+          {
             "id": "789e87cf6e956824",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MOC/Storia.md",
+                "file": "Note/Partito Nazionale Fascista.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Storia"
+              "title": "Collegamenti in uscita da Partito Nazionale Fascista"
             }
           },
           {
@@ -177,18 +157,6 @@
               },
               "icon": "lucide-tags",
               "title": "Tags"
-            }
-          },
-          {
-            "id": "175c9e719aff34f1",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "MOC/Storia.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Storia"
             }
           },
           {
@@ -219,14 +187,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6877bba951bb4551",
+  "active": "22ce77c7933c4f0f",
   "lastOpenFiles": [
-    "README.md",
-    "Note/Leggi Fascistissime.md",
     "Note/Partito Nazionale Fascista.md",
-    "Note/Il Movimento Fascista 19 - 21.md",
+    "MOC/Storia.md",
     "Note/Lavoro.md",
+    "Note/Leggi Fascistissime.md",
+    "Legge Acerbo.md",
     "Note/Legge elettorale.md",
+    "Note/Il Movimento Fascista 19 - 21.md",
+    "Fascio.md",
+    "fasci di combattimento.md",
+    "Fasci.md",
+    "Note/README.md",
     "Note/Regime Totalitario.md",
     "Note/Politica Economica.md",
     "Note/Consenso.md",
@@ -234,10 +207,7 @@
     "Note/Politica Antisemita.md",
     "Note/Patti Lateranensi.md",
     "Note/Politica Estera.md",
-    "MOC/Storia.md",
     "memoria eidetica.md",
-    "Fasci.md",
-    "fasci di combattimento.md",
     "Fisica.md",
     "Domande di Italiano e Storia.md",
     "Note/Hybrid VPN.md",
@@ -246,8 +216,6 @@
     "Note/Trusted VPN.md",
     "Note/SSLTLS.md",
     "SSL",
-    "Note/IPsec.md",
-    "Note/Tunneling.md",
     "image/NAT.png.png",
     "image/PAT.png.png",
     "image",

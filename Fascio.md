@@ -1,6 +1,6 @@
 ---
 connections:
-  - "[[Il Movimento Fascista 19 - 21]]"
+  - "[[Partito Nazionale Fascista]]"
 ---
 Il termine fascismo deriva dal fascio di verghe che venivano portate nell'antica Roma  da appositi addetti chiamati littori, i fascis littori erano invece le guardie del corpo personali del magistrato e rappresentavano il potere che avevano di uccidere il re. Tra le verghe e il fascio vi era una scure. Il Fascio veniva ornato d’alloro (Fascis laureatus) in occasione dei trionfi e portato rovesciato (Fascis versus) per i lutti gravi, Il fascio littorio era costituito da un fascio di verghe legate con nastri tricolori con inserita all’interno una scure.
 
