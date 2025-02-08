@@ -13,25 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note/Regime Totalitario.md",
+                "file": "Note/Patti Lateranensi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Regime Totalitario"
+              "title": "Patti Lateranensi"
             }
           },
           {
             "id": "2a9f93eb54a096ef",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista grafo"
+              "type": "markdown",
+              "state": {
+                "file": "Biennio Rosso.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Biennio Rosso"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,13 +128,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note/Regime Totalitario.md",
+                "file": "Biennio Rosso.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Struttura di Regime Totalitario"
+              "title": "Struttura di Biennio Rosso"
             }
           },
           {
@@ -187,34 +192,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "22ce77c7933c4f0f",
+  "active": "2a9f93eb54a096ef",
   "lastOpenFiles": [
+    "Biennio Rosso.md",
+    "Azione Cattolica.md",
+    "Note/Patti Lateranensi.md",
+    "Note/Regime Totalitario.md",
+    "Note/Politica Antisemita.md",
+    "Note/Politica Estera.md",
+    "Note/Politica Economica.md",
+    "Fisica.md",
+    "Note/Dissenso.md",
+    "Note/Consenso.md",
     "Note/Partito Nazionale Fascista.md",
     "MOC/Storia.md",
     "Note/Lavoro.md",
     "Note/Leggi Fascistissime.md",
-    "Legge Acerbo.md",
+    "Note/Legge Acerbo.md",
     "Note/Legge elettorale.md",
     "Note/Il Movimento Fascista 19 - 21.md",
-    "Fascio.md",
+    "Note/Fascio.md",
     "fasci di combattimento.md",
     "Fasci.md",
     "Note/README.md",
-    "Note/Regime Totalitario.md",
-    "Note/Politica Economica.md",
-    "Note/Consenso.md",
-    "Note/Dissenso.md",
-    "Note/Politica Antisemita.md",
-    "Note/Patti Lateranensi.md",
-    "Note/Politica Estera.md",
     "memoria eidetica.md",
-    "Fisica.md",
     "Domande di Italiano e Storia.md",
     "Note/Hybrid VPN.md",
     "Note/VPN.md",
     "Note/Secure VPN.md",
-    "Note/Trusted VPN.md",
-    "Note/SSLTLS.md",
     "SSL",
     "image/NAT.png.png",
     "image/PAT.png.png",

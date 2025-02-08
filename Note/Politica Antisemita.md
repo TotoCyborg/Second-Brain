@@ -2,7 +2,7 @@
 connections:
   - "[[Regime Totalitario]]"
 ---
-La politica antisemita in Italia venne formalizzata ufficialmente a partire dal 5 settembre 1938 fino al giugno del 1939, tramite la promulgazione da parte del; regime di una serie di provvedimenti definiti Leggi per la Difesa della Razza, basate sulle Leggi  Tedesche di Norimberga del 35. Qu7esta legislazione comprendeva una serie di pesanti vincoli per gli ebrei:
+La politica antisemita in Italia venne formalizzata ufficialmente a partire dal 5 settembre 1938 fino al giugno del 1939, tramite la promulgazione da parte del regime di una serie di provvedimenti definiti Leggi per la Difesa della Razza, basate sulle Leggi  Tedesche di Norimberga del 35. Questa legislazione comprendeva una serie di pesanti vincoli per gli ebrei:
 - divieto dei matrimoni misti con gli italiani;
 - licenziamento da tutte le pubbliche amministrazioni;
 - divieto di possedere aziende o beni immobili sopra un certo valore;
