@@ -18,4 +18,4 @@ I proxy possono essere utilizzati in diversi modi, a seconda di dove vengono col
 - Multiple Proxy Vertically Topology, che è la scelta migliore per reti medio-grandi poiché si configurano più proxy, uno primario a cui gli altri si connettono e più secondari che agiscono come fossero dei client di quello primario. Questa è una tecnica che consente a qualsiasi client di avere il filtraggio dei pacchetti personalizzato;
 - Multiple Proxy Horizontally Topology, ottimo in quanto bilancia il carico tra i server in base alle richieste dei client, in tal modo le informazioni sul trattamento dei pacchetti personalizzati si distribuiscono ai server di pari livello per riuscire a garantire la risoluzione in locale;
 
-Il proxy si avvale di determinate tecniche come NAT e PAT per 
+Il proxy si avvale di determinate tecniche come NAT e PAT per nascondere i pacchetti.

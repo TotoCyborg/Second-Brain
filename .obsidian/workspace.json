@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "e027670d02d3857c",
+        "id": "599becd403606964",
         "type": "tabs",
         "children": [
           {
-            "id": "22ce77c7933c4f0f",
+            "id": "401512aefadef4b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note/Patti Lateranensi.md",
+                "file": "Note/Social and ethical problems of IT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Patti Lateranensi"
-            }
-          },
-          {
-            "id": "2a9f93eb54a096ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biennio Rosso.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Biennio Rosso"
+              "title": "Social and ethical problems of IT"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,34 +177,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2a9f93eb54a096ef",
+  "active": "401512aefadef4b0",
   "lastOpenFiles": [
-    "Biennio Rosso.md",
-    "Azione Cattolica.md",
-    "Note/Patti Lateranensi.md",
-    "Note/Regime Totalitario.md",
-    "Note/Politica Antisemita.md",
-    "Note/Politica Estera.md",
-    "Note/Politica Economica.md",
-    "Fisica.md",
-    "Note/Dissenso.md",
-    "Note/Consenso.md",
-    "Note/Partito Nazionale Fascista.md",
-    "MOC/Storia.md",
-    "Note/Lavoro.md",
-    "Note/Leggi Fascistissime.md",
-    "Note/Legge Acerbo.md",
-    "Note/Legge elettorale.md",
-    "Note/Il Movimento Fascista 19 - 21.md",
-    "Note/Fascio.md",
-    "fasci di combattimento.md",
-    "Fasci.md",
-    "Note/README.md",
-    "memoria eidetica.md",
+    "Note/Visione della vita.md",
+    "Note/Il fu Mattia Pascal.md",
+    "Note/Poetica dell'Umorismo.md",
+    "Note/Il Berretto a sonagli.md",
+    "Note/Il teatro grottesco.md",
+    "Note/Teatro Pirandelliano.md",
+    "Note/Le influenze culturali.md",
+    "Note/Luigi Pirandello.md",
+    "Note/Teatro dei miti.md",
+    "Note/Enrico IV.md",
+    "Note/Oltre il dramma borghese.md",
+    "Note/Il Treno ha Fischiato.md",
+    "Note/Ciaula Scopre la Luna.md",
+    "Note/Vitalismo e Pazzia.md",
+    "Note/La Patente.md",
+    "Note/Novelle.md",
+    "Note/Query.md",
     "Domande di Italiano e Storia.md",
-    "Note/Hybrid VPN.md",
+    "Note/Ruoli sociali e maschere.md",
+    "Fisica.md",
     "Note/VPN.md",
-    "Note/Secure VPN.md",
+    "Note/Tunneling.md",
+    "Note/Cifratura.md",
+    "Note/Autenticazione dell'Identità.md",
+    "Vitalismo e Pazzia",
+    "MOC/Inglese.md",
+    "Note/Connecting to the internet.md",
+    "Senza nome.canvas",
     "SSL",
     "image/NAT.png.png",
     "image/PAT.png.png",

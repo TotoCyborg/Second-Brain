@@ -1,0 +1,13 @@
+---
+connections:
+  - "[[Novelle]]"
+---
+Il protagonista della novella è Rosario Chiarchiaro, un uomo che veniva considerato dagli abitanti del suo paese un portatore di sfortuna. A causa di questa credenza egli venne licenziato da lavoro e per non trascinare se stesso e la sua famiglia sul lastrico decise di sporgere denuncia nei confronti di due accusatori, ma non per condannarli, bensì per farsi riconoscere un certificato o una patente che gli permetta di esercitare la professione di iettatore.
+
+Il racconto si apre con la descrizione da p-arte dell'autore di un altro personaggio principale della storia, il giudice D'Andrea, colui che dovrà presiedere il processo. L'uomo di legge viene descritto come una persona di appena quarant'anni che passava tutte le notti insonni riflettendo e perdendosi nella maestosità del cielo. Essendo un uomo che amava riflettere e ponderare a lungo egli era anche molto dedito al suo lavoro.
+
+Nella seconda parte del brano Pirandello cerca di far notare al lettore come anche negli uffici giudiziari regnasse il pregiudizio e la scaramanzia e quando il nostro giudice cercava di farlo notare ai colleghi essi rispondevano a tono 'Per la Madonna Santissima, ti vuoi star zitto?', questa a sottolineare quanto l'ignoranza e la superstizione dilaniassero anche coloro che erano più istruiti e non solo i paesani poco educati.
+
+Per ultimo troviamo ovviamente la figura di Chiarchiaro, che convocato dal giudice nel suo ufficio appare come un disperato che non sopportando più le ingiurie della gente, ha pensato bene di trovare un modo per lucrare da tale situazione. D'Andrea inizialmente non capiva appieno le intenzioni dell'uomo, ma dopo le dovute spiegazioni egli capisce benissimo la drammatica situazione.
+
+Il tema principale della novella è quindi ;a maschera attribuita a Rosario Chiarchiaro che cosciente del non potersi liberare di essa prova a trarne vantaggio, passando dall'essere vittima all'essere vendicatore delle malelingue che lo perseguitano da tempo. Egli cerca di accettare il ruolo di iettatore che gli è stato imposto dalla società, riuscendo finalmente a stare in pace con se stesso.  Il tocco pirandelliano alla novella viene dato dall'umorismo al suo interno, se in un primo momento la figura dell'uomo perseguitato dalle sue malelingue che cerca di farsi conferire la patente di iettatore può far sorridere, una volta compreso il vero significato del comportamento dell'uomo compare nel lettore un sentimento di compassione nei confronti di un uomo distrutto dalle cattiverie della gente che cerca di riscattarsi.

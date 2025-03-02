@@ -6,7 +6,7 @@ source:
 ---
 Initially users connected to the Internet via their phones, data traveled on copper cables and trasmission speed was slow. Today, they are used broad band connections which can handle much greater volumes of data at much greater speed.
 
-Ther ere different ways of gaining broadband access to the Internet.
+There are different ways of gaining broadband access to the Internet.
 
 # ADSL
 ---

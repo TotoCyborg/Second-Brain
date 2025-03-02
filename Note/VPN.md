@@ -20,12 +20,14 @@ Per ovviare a questi problemi si ricorre alle reti private virtuali. Una VPN (Vi
 - sicurezza delle trasmissioni;
 
 Il primo problema viene affrontato tramite l'utilizzo delle WAN, il secondo e il terzo grazie ai fattori di autenticazione, cifratura e tunneling.
-Esistono due tipi di VPN in commercio, le [[Remote-access VPN]] e le [[Site-to-site VPN]]. Ovviamente le VPN devono affrontare seri problemi nell'ambito sia della sicurezza dei dati che della riservatezza delle trasmissioni. In questo campo i fattori su cui bisogna concentrare la nostra attenzione sono 3:
+Esistono due tipi di VPN in commercio, le [[Remote-access VPN]] e le [[Site-to-site VPN]]. 
+
+Ovviamente le VPN devono affrontare seri problemi nell'ambito sia della sicurezza dei dati che della riservatezza delle trasmissioni. In questo campo i fattori su cui bisogna concentrare la nostra attenzione sono 3:
 - [[Autenticazione dell'Identità]];
 - [[Cifratura]];
 - [[Tunneling]];
 
- I principali protocolli usati per garantire la sicurezza della rete sono :
+I principali protocolli usati per garantire la sicurezza della rete sono :
 - [[IPsec]];
 - [[SSLTLS]];
 - BGP/MPLS (Border Gateway Protocol / Transport Layer Security);

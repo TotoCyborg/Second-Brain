@@ -7,7 +7,7 @@ source:
 The rapid expansions of Internet, has opened up enormous opportunities for criminal activity for example, stealing confidential data from companies or people by bursting into their PCs. 
 Malware is a malicios software that finds its way onto people's computers, it can spread rapidly especially via mail or peer to peer file sharing. There are many form of malware, the most destructive can completlely disable a computer or a smartphone, the most common types malware and other online dangers are:
 
-- Virus: any progrm that infiltrates a pc and then causes it to malfunction as though it were ill;
+- Virus: any program that infiltrates a pc and then causes it to malfunction as though it were is;
 - Spyware: a secret program that observes and reports on a users's online behaviour, without the person knowing, usually for commercial purposes;
 - Spam: unwanted e-mail messages trasmitted to masses of people, usually for advertising purposes, they may also carry a virus;
 - Worm: a program that invades computers on a network and buries itself deep inside the software. It replicates itself to prevent deletion and may carry a virus;
