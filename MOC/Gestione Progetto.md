@@ -1,0 +1,5 @@
+---
+connections:
+  - "[[SecondBrain]]"
+---
+#moc 
