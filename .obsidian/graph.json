@@ -13,13 +13,6 @@
         "a": 1,
         "rgb": 14701138
       }
-    },
-    {
-      "query": "file: SecondBrain",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
     }
   ],
   "collapse-display": true,
@@ -28,10 +21,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0,
-  "repelStrength": 20,
+  "centerStrength": 0.370111048371918,
+  "repelStrength": 12.7987954074911,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.37009924813580836,
+  "scale": 0.3218396435601034,
   "close": true
 }

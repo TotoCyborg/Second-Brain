@@ -1,13 +1,7 @@
 ---
 connections:
-  - "[[SecondBrain]]"
+  - "[[Gestione Progetto]]"
 ---
-#moc 
-
 ```dataview
 list from [[]]
 ```
-
-
-
-

@@ -1,0 +1,25 @@
+Ecco il testo ripulito da evidenziazioni, link e altri elementi non testuali, con tutte le parole rese in forma normale:
+
+---
+
+La primavera del 1942 sul fronte orientale era stata molto più tranquilla dell'anno precedente. La scarsità di risorse, l'affaticamento di entrambe le parti e un inverno particolarmente rigido seguito da un corrispondente periodo di disgelo e fango, noto ai russi come rasputisa, che rendeva il terreno difficile da attraversare, fecero sì che la guerra prendesse un po' di respiro.
+
+Ciò nonostante, le battaglie che si svolsero tra il 1942 e il 1943 furono decisive per l'evolvere della Seconda guerra mondiale. Fu nel 1942 che l'esercito tedesco si trovò di fronte al dilemma se dare o meno il colpo di grazia all'Unione Sovietica prima che gli Stati Uniti potessero mobilitare le proprie risorse economiche e militari. Il 28 giugno dello stesso anno Hitler lanciò quella che divenne nota come operazione Blu, che mirava alle ricchezze minerarie e petrolifere dell'Ucraina e del Caucaso. Tra gli obiettivi strategici c'era la città di Stalingrado, la cui conquista avrebbe dovuto tagliare l'afflusso di risorse dell'Armata rossa.
+
+Convinti che l'attacco imminente fosse diretto su Mosca, i sovietici furono colti completamente di sorpresa dall'offensiva dei tedeschi lungo l'intero fronte ucraino. Così, con una manovra tutt'altro che insolita, l'Armata rossa si ritirò. I tedeschi si spinsero inarrestabilmente nel cuore dell'Europa, ma non fecero altro che conquistare territori deserti.
+
+Iosif Stalin preferì cedere il terreno piuttosto che impegnare i nazisti in una battaglia persa in partenza. Questi ultimi avanzarono nel Caucaso, ma le lunghe distanze che rendevano difficili i rifornimenti e le montagne fecero sì che non riuscissero mai a raggiungere i pozzi di petrolio che intendevano conquistare. Fu così che il 19 giugno 1942 Adolf Hitler decise di fare rotta verso Stalingrado.
+
+La battaglia iniziò il 23 agosto 1942 e contrappose l'Armata rossa dell'Unione Sovietica alla Wehrmacht della Germania nazista e ai suoi alleati dell'Asse per il controllo della città, che aveva un'importante industria militare e si era affermata come fondamentale nodo ferroviario. La città si estendeva lungo la riva occidentale del Volga e mancava di ponti per attraversare il fiume.
+
+Poco prima, il 19 luglio, Stalin aveva ordinato di porre Stalingrado in totale stato d'assedio, proibendo ai civili di uscire e ordinando d'iniziare i preparativi per resistere all'avvicinarsi dei tedeschi. Preoccupato per l'avanzata tedesca verso il Volga, che avrebbe potuto spaccare in due la Russia, giorni dopo, il 28 luglio, Stalin emanò il famoso ordine numero 227, presto noto come l'ordine "Non un passo indietro!", che vietava la resa a qualsiasi costo e formava una linea di fanteria nelle retrovie con l'ordine di sparare a qualsiasi soldato o civile che si fosse ritirato senza permesso. Il 23 agosto si avvicinava e la battaglia si profilava all'orizzonte dell'attuale Volgograd.
+
+Come previsto, i combattimenti si rivelarono durissimi. Le truppe del Führer arrivarono in città, la cui difesa era guidata dai generali sovietici Andrej Ivanovič Eremenko e Vasilij Ivanovič Čujkov, contro i quali dovettero affrontare un tipo di guerra fino ad allora sconosciuto: combattere in una città in rovina e contro un nemico che conosceva ogni centimetro del terreno.
+
+I sovietici subirono gravi perdite, ma ogni notte arrivavano nuovi rinforzi dalle rive del Volga. La situazione sembrava ancora peggiore per la Wehrmacht tedesca, che contava perdite di vite umane e di armamenti ancora più ingenti, ma che tuttavia sembrava spingere l'Armata rossa ad arretrare. L'avanzata fu tale che Hitler arrivò ad annunciare la conquista di Stalingrado l'8 novembre. Ma la situazione si ribaltò presto.
+
+Le truppe tedesche erano affiancate dagli alleati rumeni, ungheresi e italiani, molto più deboli e meno armati. Nel frattempo, da parte sovietica, si stava approntando quella che sarebbe diventata nota come operazione Urano, che, dopo aver ammassato truppe su entrambi i lati del fronte tedesco, avrebbe portato all'accerchiamento della sesta armata nazista.
+
+Con un errore di calcolo e sulla base delle previsioni di Hermann Göring, secondo cui la Luftwaffe tedesca avrebbe potuto fornire supporto aereo alle truppe, Hitler ordinò alla sesta armata di mantenere le posizioni. Per grande fortuna dei sovietici, gli aerei non si rivelarono sufficienti. Una successiva offensiva dell'Armata rossa accerchiò completamente le truppe tedesche, non lasciando al generale Friedrich Paulus, che guidava la fazione nazista, altra scelta che arrendersi il 2 febbraio 1943, contravvenendo agli ordini del Führer.
+
+La Wehrmacht aveva subito la sua prima grande sconfitta e l'equilibrio sul fronte orientale si stava inclinando per la prima volta a favore dell'URSS. Furono mesi di sangue e polvere da sparo, che segnarono la grande svolta della Seconda guerra mondiale in Europa, portando al contrattacco sovietico e all'inizio della ritirata tedesca. La Seconda guerra mondiale aveva appena cambiato rotta.
