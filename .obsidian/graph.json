@@ -13,6 +13,13 @@
         "a": 1,
         "rgb": 14701138
       }
+    },
+    {
+      "query": "tag: #Cardinal",
+      "color": {
+        "a": 1,
+        "rgb": 65331
+      }
     }
   ],
   "collapse-display": true,
@@ -21,10 +28,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.370111048371918,
-  "repelStrength": 12.7987954074911,
+  "centerStrength": 0,
+  "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.3218396435601034,
+  "scale": 0.20128031431650628,
   "close": true
 }

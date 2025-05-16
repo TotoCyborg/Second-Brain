@@ -1,6 +1,6 @@
 {
-  "baseFontSize": 11,
-  "theme": "moonstone",
+  "baseFontSize": 18,
+  "theme": "obsidian",
   "cssTheme": "Primary",
   "textFontFamily": "Times",
   "baseFontSizeAction": true

@@ -29,25 +29,15 @@ Ai sensi dell'81/08, il datore di lavoro è tenuto a svolgere due attività fond
 2. Designazione del responsabile del servizio di prevenzione e protezione;
 Il testo unico richiede quindi a ciascun datore di lavoro di organizzare un servizio di protezione e prevenzione, di individuare il medico che si occupi della sorveglianza sanitaria e di formare una squadra di gestione delle emergenze.
 
-**Dirigente**
-Ai sensi dell'81/08 è quella persona che in ragione di competenze professionali e di poteri gerarchici e funzionali adeguati alla natura dell'incarico conferitogli, attua le direttive del datore di lavoro organizzando l'attività lavorativa e vigilando su di essa.
+**Dirigente** => Ai sensi dell'81/08 è quella persona che attua le direttive del datore di lavoro organizzando l'attività lavorativa e vigilando su di essa.
 
-**Preposto**
-Il preposto è invece colui che sovrintende all'attività lavorativa e garantisce l'attuazione delle direttive ricevute, controllandone la corretta esecuzione sa parte dei lavoratori ed esercitando un funzionale potere di iniziativa. 
+**Preposto** => colui che sovrintende all'attività lavorativa e garantisce l'attuazione delle direttive ricevute, controllandone la corretta esecuzione da parte dei lavoratori ed esercitando un funzionale potere di iniziativa. 
 
-**Lavoratori**
-È una persona che svolge un'attività lavorativa nell'ambito dell'organizzazione di un datore di lavoro. Egli è richiamato dalla normativa vigente alla cura della propria salute e sicurezza e di quella delle altre persone presenti sul luogo di lavoro, su cui ricadono gli effetti delle sue azioni o omissioni. 
+**Lavoratori** => colui che svolge un'attività lavorativa nell'ambito dell'organizzazione di un datore di lavoro. Egli è richiamato dalla normativa vigente alla cura della propria salute e sicurezza e di quella delle altre persone presenti sul luogo di lavoro, su cui ricadono gli effetti delle sue azioni o omissioni. 
 
-**Progettisti**
-I progettisti sono tenuti a rispettare i principi generali di prevenzione in materia di salute e sicurezza sul lavoro al momento delle scelte progettuali e tecniche ea scegliere componenti rispondenti alle disposizioni legislative.
+**Progettisti** => colore che sono tenuti a rispettare i principi generali di prevenzione in materia di salute e sicurezza sul lavoro al momento delle scelte progettuali e tecniche ea scegliere componenti rispondenti alle disposizioni legislative.
 
-**Fabbricanti**
-Per i fabbricanti la conformità alle disposizioni regolamentari vigenti in materia di sicurezza si attua apponendo alle macchine e alle attrezzature la marchiatura CE, che ne attesta la rispondenza ai requisiti essenziali di sicurezza.
-
----
-
-*Il Responsabile del Servizio di Prevenzione e Protezione*
-L'RSPP è colui che coordina il servizio di prevenzione e protezione dei rischi, costituito da una serie di addetti. Sia il responsabile che gli addetti devono essere prioritariamente interni all'azienda. 
+**Il Responsabile del Servizio di Prevenzione e Protezione** => colui che coordina il servizio di prevenzione e protezione dei rischi, costituito da una serie di addetti. Sia il responsabile che gli addetti devono essere prioritariamente interni all'azienda. 
 I principali compiti del servizio di prevenzione e protezione sono:
 - l'individuazione dei fattori di rischio;
 - la valutazione dei rischi;
@@ -55,15 +45,11 @@ I principali compiti del servizio di prevenzione e protezione sono:
 
 Inoltre, si occupa di elaborare le procedure di sicurezza per le varie attività aziendali e di proporre programmi di informazione, formazione dei lavoratori e della riunione periodica di sicurezza  con il datore, il RSPP, medico competente e il rappresentante dei lavoratori.
 
----
-
-*Il Rappresentate dei Lavoratori per la Sicurezza*
-Ai sensi del D.Lgs. 81/08 il rappresentante dei lavoratori per la sicurezza è la persona che va a rappresentare i lavoratori per quanto concerne gli aspetti della salute e della sicurezza durante il lavoro. Oltre a partecipare alla riunione periodica, è consultato anche per la valutazione dei rischi o per la nomina del medico competente o per altre mansioni che richiedono la rappresentanza dei lavoratori stessi.
+**Il Rappresentate dei Lavoratori per la Sicurezza** => la persona che va a rappresentare i lavoratori per quanto concerne gli aspetti della salute e della sicurezza durante il lavoro. Oltre a partecipare alla riunione periodica, è consultato anche per la valutazione dei rischi o per la nomina del medico competente o per altre mansioni che richiedono la rappresentanza dei lavoratori stessi.
 
 ---
 
-*Il Medico Competente e la Sorveglianza Sanitaria*
-Il medico competente è la figura sanitaria prevista dal testo unico, che collabora con il datore di lavoro per la predisposizione delle misure per la tutela della salute e dell'integrità psicofisica dei lavoratori, per l'informazione e formazione nei confronti dei lavoratori e per l'organizzazione del servizio del primo soccorso.
+**Il Medico Competente e la Sorveglianza Sanitaria** => la figura sanitaria prevista dal testo unico, che collabora con il datore di lavoro per la predisposizione delle misure per la tutela della salute e dell'integrità psicofisica dei lavoratori, per l'informazione e formazione nei confronti dei lavoratori e per l'organizzazione del servizio del primo soccorso.
 
 Per quanto riguarda la sorveglianza sanitaria è definita come l’insieme degli atti medici, che tutelano lo stato di salute e sicurezza dei lavoratori, in relazione all’ambiente di lavoro, ai fattori di rischio professionali e alle modalità di svolgimento dell’attività lavorativa. Essa è prevista solo in determinati casi:
 - lavoratori addetti alla movimentazione manuale dei carichi. Art 168;

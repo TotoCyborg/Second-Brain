@@ -1,6 +1,6 @@
 ---
 connections:
-  - "[[SecondBrain]]"
+  - "[[Superiori]]"
 source:
 ---
 #moc 

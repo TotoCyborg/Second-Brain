@@ -1,9 +1,10 @@
 ---
 connections:
-  - "[[Superiori]]"
+  - "[[SecondBrain]]"
+source:
+  - La mia Memoria
 ---
-# Indice
 ```dataview
 list from [[]]
 ```
-#moc 
+
