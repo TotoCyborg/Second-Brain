@@ -4,20 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "b1c598feb87c567b",
+        "id": "f9c8d75958eb537f",
         "type": "tabs",
         "children": [
           {
-            "id": "752f28183ed687e6",
+            "id": "83ef9d36cfb98f82",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Libertà Negate.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "title": "Libertà Negate"
+            }
+          },
+          {
+            "id": "9b783f520bbf95b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Italiano_Libertà.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Italiano_Libertà"
+            }
+          },
+          {
+            "id": "e532fcaa1aaea482",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Storia_Libertà.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Storia_Libertà"
+            }
+          },
+          {
+            "id": "f0f674a579a4c069",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista grafo"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -49,8 +92,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#lease",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -67,7 +110,7 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Segnalibri"
             }
           }
         ]
@@ -173,33 +216,33 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "752f28183ed687e6",
+  "active": "f0f674a579a4c069",
   "lastOpenFiles": [
-    "DHCP e DNS.md",
-    "Il Transport Layer del TCP IP.md",
-    "AS.md",
-    "Routing.md",
-    "Note/Seconda Guerra Mondiale Completo.md",
-    "MOC/Esame Maturità.md",
-    "Superiori.md",
-    "MOC/SecondBrain.md",
-    "MOC/TPSIT.md",
+    "Storia_Libertà.md",
+    "Italiano_Libertà.md",
+    "Libertà Negate.md",
+    "Storia_Progetti.md",
+    "I Progetti Informatici.md",
+    "Italiano_Progetti.md",
+    "Storia_Social.md",
+    "Italiano_Social.md",
+    "Storia_Privacy.md",
+    "Social Media.md",
+    "Privacy, Rete e Sicurezza.md",
+    "Italiano_Privacy.md",
+    "MOC/Percorsi.md",
+    "Storia_WebToday.md",
+    "Guerra Fredda.md",
+    "Italiano_WebToday.md",
+    "The Web Today.md",
     "MOC/Storia.md",
     "MOC/Sistemi e Reti.md",
-    "MOC/Italiano.md",
-    "MOC/Inglese.md",
-    "MOC/Gestione Progetto.md",
-    "MOC/Fisica.md",
-    "LISTONE.md",
-    "armi segrete.md",
-    "Note/L'Organizzazione della Prevenzione Aziendale.md",
-    "Domande di italiano.md",
-    "To do List.md",
-    "Ingegneria del Software.md",
-    "La Specifica dei Requisiti.md",
-    "Note/Seconda Guerra Mondiale.md",
-    "Note/Unità 3 Gestione Progetto.md",
+    "Note/Toto che continua a non fidarsela di informatica.md",
+    "Note/Movimenti di Avanguardia.md",
+    "Note/Il Riarmo e la Guerra Civile Spagnola.md",
     "Ossi di Seppia.md",
+    "Giuseppe Ungaretti.md",
+    "Note/Ingegneria del Software.md",
     "Eugenio Montale.md",
     "image/Screenshot 2025-04-03 234218.png",
     "image/grafico_vel_media.png",

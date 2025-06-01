@@ -1,6 +1,6 @@
 ---
 connections:
-  - "[[Italiano]]"
+  - "[[MOC/Italiano]]"
 ---
 
 I **movimenti di avanguardia** nascono all’inizio del **Novecento** come risposta radicale ai profondi cambiamenti sociali, culturali e tecnologici dell’epoca. Il termine "avanguardia" (dal francese _avant-garde_) richiama il concetto militare di "prima linea", indicando gruppi di artisti e intellettuali che si pongono **in anticipo rispetto al loro tempo**, rompendo con la tradizione e cercando nuove forme espressive per rappresentare una realtà in continua trasformazione.

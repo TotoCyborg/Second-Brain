@@ -1,6 +1,6 @@
 ---
 connections:
-  - "[[Italiano]]"
+  - "[[MOC/Italiano]]"
 source:
   - Libro Italiano
   - Prof. Rosa Scarsi

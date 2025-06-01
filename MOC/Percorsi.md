@@ -1,7 +1,9 @@
 ---
 connections:
-  - "[[MOC/Storia]]"
+  - "[[SecondBrain]]"
 ---
+#moc 
+
 ```dataview
 list from [[]]
 ```

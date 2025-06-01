@@ -3,5 +3,8 @@
   "obsidian-image-toolkit",
   "obsidian-git",
   "obsidian-minimal-settings",
-  "obsidian-latex-suite"
+  "obsidian-latex-suite",
+  "obsidian-style-settings",
+  "highlightr-plugin",
+  "colored-text"
 ]

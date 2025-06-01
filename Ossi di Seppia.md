@@ -1,5 +1,0 @@
----
-connections:
-  - "[[Eugenio Montale]]"
----
-

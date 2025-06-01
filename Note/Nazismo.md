@@ -1,6 +1,6 @@
 ---
 connections:
-  - "[[Storia]]"
+  - "[[MOC/Storia]]"
 ---
 *La prigionia e la nascita del Mein Kampf*
 Dopo il fallimento del Putsch di Monaco, Adolph Hitler viene incarcerato, durante la prigionia egli elabora le sue idee condensandole nel libro Mein Kanpf ("La mia battaglia"). Tale libro diventerà nel tempo il "Vangelo del nazionalsocialismo", le sue idee hanno potuto diffondersi grazie:

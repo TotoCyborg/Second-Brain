@@ -1,6 +1,6 @@
 ---
 connections:
-  - "[[Storia]]"
+  - "[[MOC/Storia]]"
 ---
 Nel marzo del 1919, durante quel periodo che va sotto il nome di [[Biennio Rosso]], l'ex socialista M fonda i fasci di combattimento, la scelta del termine [[Fascio]] indicava la volontà di voler mettere insieme in una nuova formazione politica idee sia di destra che di sinistra. Il movimento fascista di questa prima conobbe però scarsa fortuna, alle elezioni del 19 non portò alla Camera nessun deputato. Nel 1920 vennero così create le squadre d'azione con il compito di contrastare il potere delle leghe rosse, in breve tempo lo squadrismo dilagò sia al nord che nel centro Italia, facendo parlare di se a causa di svariati episodi d'efferata violenza. Nelle campagne del Nord esso riuscì addirittura a diventare un movimento di massa raccogliendo consensi anche tra piccoli proprietari, affittuari e coloni. In generale coloro che appoggiavano l'ideologia fascista erano tutti quei cittadini che erano scontenti dallo scarso compenso dato all'Italia anche se essa figurava tra le vittoriose della Grande Guerra.
 

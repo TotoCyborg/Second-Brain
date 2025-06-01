@@ -3,6 +3,126 @@ connections:
   - "[[Esame Maturità]]"
 ---
 
+
+*Il Riarmo della Germania e la Rottura dell’Equilibrio Europeo*
+
+Nel 1933, la Germania diede inizio a una politica di riarmo ed espansionismo, con l'obiettivo di ottenere lo "spazio vitale" e modificare quanto stabilito dal Trattato di Versailles. La Wehrmacht venne progressivamente trasformata e rafforzata, così come la Luftwaffe.
+
+Il riarmo tedesco fu condannato da Francia, Inghilterra e Italia durante la Conferenza di Stresa del 1935. In risposta alla minaccia tedesca, la Francia firmò un patto di mutua difesa con l'Unione Sovietica, favorita anche dalla volontà di quest’ultima di uscire dall’isolamento internazionale e di entrare nella Società delle Nazioni.
+
+Tuttavia, l’Inghilterra adottò una politica diversa e siglò un accordo navale con la Germania, che autorizzava i nazisti a costruire una nuova flotta. Questo errore diplomatico si sarebbe rivelato molto costoso per gli inglesi solo cinque anni dopo.
+
+L’intesa tra Francia, Inghilterra e Italia si ruppe definitivamente quando Mussolini ordinò l’aggressione all’Etiopia. L’episodio fu condannato dalla comunità internazionale e contribuì ad avvicinare Roma a Berlino, dando così inizio a un’intesa destinata a durare un decennio.
+
+---
+
+*La Rimilitarizzazione della Renania e la Crisi della Repubblica Francese*
+
+Il 7 marzo 1936, la Germania fece stazionare alcuni reparti militari in Renania, una zona che, secondo il Trattato di Versailles, era interdetta alle truppe tedesche. Francia e Inghilterra decisero di non reagire, per evitare un’escalation diplomatica, mentre la Società delle Nazioni si limitò a una formale deplorazione dell’atto. La riuscita di questa dimostrazione di forza accrebbe la popolarità e il prestigio di Hitler in Germania.
+
+La Francia non reagì militarmente, in parte a causa della grave crisi delle sue istituzioni repubblicane. In quel periodo si erano diffusi movimenti di ispirazione antidemocratica e razzista, con l’obiettivo di instaurare un regime totalitario. Per contrastare questa minaccia, i partiti di sinistra si unirono nel Fronte Popolare, che vinse le elezioni politiche nel maggio del 1936, portando al governo Léon Blum.
+
+Il governo Blum riuscì temporaneamente ad arginare il pericolo fascista, ma nel 1937 il primo ministro fu costretto a dimettersi, segnando così la fine dell’esperienza del Fronte Popolare.
+
+---
+
+*Dalla Repubblica alla guerra civile (1931-1936)*
+
+Nel 1931, la Spagna proclama la Seconda Repubblica dopo la vittoria dei partiti repubblicani e socialisti. Il nuovo governo avvia importanti riforme:
+
+- Fine della monarchia  
+- Separazione tra Stato e Chiesa cattolica  
+- Autonomia per la Catalogna  
+- Riforma agraria  
+
+Queste riforme provocano la reazione delle forze conservatrici. Nel 1933, con la vittoria elettorale della destra, inizia il "biennio nero" (1933-1935), un periodo segnato da repressioni e blocco delle riforme.
+
+Nel 1936 si forma il Fronte Popolare (repubblicani, socialisti, comunisti, anarchici), che vince le elezioni. La destra rifiuta l’esito del voto e il 17 luglio 1936 i militari guidati dal generale Francisco Franco lanciano un colpo di Stato, dando inizio alla guerra civile spagnola.
+
+I nazionalisti ricevono supporto da Germania nazista e Italia fascista, mentre i repubblicani restano isolati, se non per l’aiuto limitato dell’URSS e dei volontari antifascisti internazionali.
+
+---
+
+*Il conflitto armato e la dittatura franchista (1936-1939)*
+
+La guerra si trasforma in uno scontro tra fascismo e antifascismo su scala internazionale. I nazionalisti, con il sostegno di Hitler e Mussolini, impiegano armi moderne e strategie nuove, come i bombardamenti aerei sulle popolazioni civili. Il caso più emblematico è quello di Guernica, colpita nel 1937 dalla Legione Condor tedesca. Dall’altra parte, il governo repubblicano riesce a mantenere il controllo di Madrid e delle zone economicamente più ricche nel nord-est della Spagna. Può contare sull’appoggio popolare, sull’armamento di sindacati e partiti, e sull’aiuto militare dell’URSS di Stalin. Inoltre, arrivano migliaia di volontari antifascisti da tutto il mondo: sono le Brigate Internazionali, che raccolgono circa 40.000 combattenti, uniti dall’ideale comune di contrastare il fascismo. Una delle figure più iconiche del fronte repubblicano è Dolores Ibárruri, soprannominata La Pasionaria, famosa per il suo slogan “¡No pasarán!” (Non passeranno), con cui incita il popolo a resistere all’avanzata franchista.
+
+Tuttavia, il Fronte Popolare è attraversato da gravi divisioni ideologiche. Comunisti e socialisti, con il sostegno sovietico, si scontrano con anarchici e trotzkisti, accusati di voler trasformare la guerra civile in una rivoluzione sociale. A Barcellona, nel 1937, questi contrasti sfociano in scontri armati e durissime repressioni. Questa frammentazione indebolisce la resistenza repubblicana.
+
+Nel frattempo, le truppe franchiste conquistano progressivamente nuove aree. Entro la fine del 1937 controllano tutto il nord della Spagna; nell’aprile 1938 riescono a dividere in due il territorio della Repubblica. A ottobre dello stesso anno, la Repubblica congeda le Brigate Internazionali, consapevole della disfatta imminente. Inizia così l’offensiva finale: nel gennaio 1939 cade Barcellona, seguita da Madrid il 28 marzo. Con la resa della capitale si chiude ufficialmente il conflitto.
+
+Dopo la vittoria, Franco instaura un regime dittatoriale fondato sulla repressione politica e il controllo autoritario del paese. Decine di migliaia di oppositori vengono imprigionati o giustiziati; i prigionieri politici sono almeno 300.000 e molti altri sono costretti all’esilio. La guerra civile spagnola, costata circa mezzo milione di morti, lascia la Spagna distrutta e segnata da profonde divisioni. L’Europa, osservando gli effetti devastanti del conflitto, comprende quanto sia vicino un possibile scontro militare su scala globale tra fascismo e democrazia.
+
+---
+
+*Il contesto europeo e la guerra civile spagnola (1936-1939)*
+
+Negli anni Trenta, l’Europa fu attraversata da una crescente polarizzazione politica e ideologica, con il rafforzarsi dei regimi autoritari e totalitari — fascismo in Italia, nazismo in Germania e comunismo in URSS — a scapito delle democrazie liberali, indebolite dalla crisi economica e sociale del 1929.
+
+Un punto di svolta fu rappresentato dalla guerra civile spagnola, scoppiata nel 1936 dopo la vittoria elettorale del Fronte Popolare (repubblicani, socialisti, comunisti e anarchici). La destra, contraria al nuovo governo riformista, organizzò un colpo di Stato militare, guidato dal generale Francisco Franco.
+
+Il conflitto divenne rapidamente un banco di prova per gli equilibri internazionali:
+- La Germania nazista e l’Italia fascista appoggiarono il fronte nazionalista con truppe, armi e aviazione (come la Legione Condor tedesca)
+- L’URSS fornì aiuti ai repubblicani, così come le Brigate Internazionali, formate da volontari antifascisti di tutto il mondo
+
+Nonostante l’eroica resistenza repubblicana, sostenuta da una mobilitazione popolare senza precedenti, i nazionalisti vinsero grazie al maggiore sostegno militare e all’unità strategica. Nel 1939, con la caduta di Madrid, Franco instaurò una dittatura fascista e autoritaria destinata a durare fino al 1975.
+
+La guerra civile spagnola divenne così una prova generale del conflitto mondiale, segnando lo scontro tra fascismo e antifascismo e anticipando le alleanze future.
+
+---
+
+*L’espansionismo nazista e la nascita dell’Asse*
+
+Parallelamente, la Germania hitleriana iniziò una politica aggressiva di revisione dell’ordine europeo stabilito dal Trattato di Versailles. Hitler mirava a riunificare tutte le popolazioni di lingua tedesca in un unico grande Reich e a conquistare lo "spazio vitale" necessario per l’espansione del popolo tedesco.
+
+Nel 1936, durante la guerra civile spagnola, nacque l’Asse Roma-Berlino, sancendo l’alleanza tra Mussolini e Hitler. Poco dopo, anche il Giappone si unì all’intesa, formando il Patto Anticomintern, diretto contro l’Unione Sovietica e l’internazionale comunista.
+
+L’11 marzo 1938, la Germania annetté l’Austria con il consenso di una parte della popolazione e senza incontrare resistenza internazionale. Hitler, che aveva origini austriache, giustificò l’intervento come una naturale riunificazione del popolo tedesco. L’esercito tedesco fu accolto con entusiasmo e un plebiscito successivo ratificò l’annessione.
+
+Dopo l’Austria, Hitler puntò alla Cecoslovacchia, in particolare ai Sudeti, una regione abitata da oltre tre milioni di tedeschi. Il regime tedesco fomentò la tensione etnica e rivendicò il diritto di annettere quei territori.
+
+Nel settembre 1938, si tenne la Conferenza di Monaco, con la partecipazione di Hitler, Mussolini, Chamberlain (Regno Unito) e Daladier (Francia). La Cecoslovacchia non fu nemmeno invitata. Le potenze democratiche, nel tentativo di evitare la guerra, cedettero ai ricatti tedeschi: i Sudeti furono consegnati alla Germania.
+
+Questo evento segnò l’apice della politica dell’appeasement, ovvero l’atteggiamento conciliante verso le pretese hitleriane, nella speranza che egli si fermasse.
+
+---
+
+*Il crollo dell’appeasement e il riarmo dell’Europa*
+
+Dopo Monaco, le speranze di pace svanirono rapidamente. Nel marzo 1939, Hitler infranse gli accordi e invase il resto della Cecoslovacchia, istituendo il Protettorato di Boemia e Moravia e sostenendo l’indipendenza della Slovacchia, che però divenne uno Stato satellite del Reich.
+
+Questa mossa evidenziò la vera strategia di Hitler: non si trattava solo di unire i tedeschi, ma di espandere il dominio tedesco in tutta Europa. Di fronte a questa minaccia, Francia e Inghilterra compresero l’errore e abbandonarono la politica dell’appeasement.
+
+Hitler rivendicò il corridoio di Danzica, controllato dalla Polonia, per unire la Germania alla Prussia Orientale. Il governo polacco rifiutò la richiesta. In risposta, il 25 agosto 1939, Regno Unito e Francia firmarono un trattato di mutua assistenza con la Polonia, garantendo la sua difesa in caso di aggressione.
+
+---
+
+*L’intervento italiano nei Balcani e il Patto d’Acciaio*
+
+Mentre Hitler preparava l’invasione della Polonia, l’Italia fascista cercava di ritagliarsi uno spazio nella nuova mappa del potere. Il 7 aprile 1939, senza pretesti evidenti, le truppe italiane invasero l’Albania. Il 12 aprile, il re Vittorio Emanuele III ne assunse ufficialmente la corona. L’invasione era un chiaro messaggio all’Inghilterra e una mossa strategica per aumentare la presenza italiana nei Balcani e nel Mediterraneo orientale.
+
+Il 22 maggio 1939, Italia e Germania firmarono il Patto d’Acciaio, un’alleanza militare che prevedeva assistenza reciproca in caso di guerra. Anche se Mussolini era consapevole di non essere pronto per un conflitto su larga scala, decise comunque di legarsi completamente alla Germania.
+
+---
+
+*Il Patto Molotov-Ribbentrop e l’inizio della guerra*
+
+La svolta decisiva avvenne il 23 agosto 1939, quando Germania e URSS firmarono un patto di non aggressione, noto come Patto Molotov-Ribbentrop (dal nome dei due ministri degli Esteri). Oltre alla clausola ufficiale, il patto conteneva un protocollo segreto che prevedeva:
+
+- La spartizione dell’Europa orientale in due sfere d’influenza:
+  - Alla Germania: la parte occidentale della Polonia
+  - All’URSS: Paesi Baltici, Bessarabia (Romania), e parte orientale della Polonia
+
+Questo accordo fu un colpo durissimo per il movimento comunista internazionale, che si vide alleato con il nazismo, nemico ideologico storico. Molti partiti comunisti obbedirono inizialmente alla linea di Mosca, causando fratture interne e polemiche.
+
+Il 1° settembre 1939, con l’invasione tedesca della Polonia, iniziò ufficialmente la Seconda guerra mondiale. Due giorni dopo, il 3 settembre, Regno Unito e Francia dichiararono guerra alla Germania.
+
+---
+
+>Questo quadro complesso e drammatico rappresenta il fallimento della diplomazia europea degli anni Trenta e la transizione definitiva verso un conflitto mondiale che avrebbe cambiato radicalmente la storia dell’umanità.
+
+---
+
 *Invasione della Polonia*
 Il 1° settembre 1939, le forze armate tedesche diedero inizio all'Invasione della Polonia. In risposta a patti precedentemente siglati, il 3 settembre Gran Bretagna e Francia reagirono dichiarando guerra alla Germania. Gli Stati Uniti e il Giappone, invece, decisero di restare neutrali.
 L’invasione della Polonia offrì alla Wehrmacht l’opportunità di mettere a punto le tattiche della guerra lampo (Blitzkrieg). Attraverso manovre rapide e offensive devastanti, le truppe tedesche riuscirono a sopraffare agevolmente le difese polacche, avanzando rapidamente verso le principali città grazie all'impiego massiccio delle divisioni corazzate.
@@ -180,13 +300,9 @@ Il conflitto sul suolo italiano durò oltre venti mesi. Dopo la liberazione di N
 ---
 
 *Conferenza di Teheran*
-Nel frattempo, sul fronte orientale, Hitler aveva lanciato un’ultima offensiva nel luglio del 1943, con una gigantesca battaglia di carri armati a Kursk, nella Russia centrale. I sovietici risposero con una controffensiva travolgente, resa possibile dalla ripresa dell’industria bellica russa. Nel giro di pochi mesi vennero riconquistate l’Ucraina e la Crimea, e fu spezzato l’assedio tedesco a Leningrado, che durava da ben 871 giorni.
+La Conferenza di Teheran si tenne dal 28 novembre al 1º dicembre 1943, durante la Seconda guerra mondiale, e fu il primo incontro tra i tre grandi leader alleati: Franklin D. Roosevelt (Stati Uniti), Winston Churchill (Regno Unito) e Iosif Stalin (Unione Sovietica). Il vertice si svolse nella capitale dell'Iran, un luogo scelto per motivi strategici e di sicurezza. 
 
-Nell’estate del 1944, l’Armata Rossa giunse alle porte di Varsavia. Tuttavia, non rispose alle richieste d’aiuto dei partigiani polacchi, che avevano dato il via a un’insurrezione generale nella città. Dopo un assedio di 63 giorni, circa 200.000 patrioti polacchi vennero uccisi. Nel frattempo, i sovietici conquistarono la Romania, l’Estonia, la Lettonia e la Bulgaria.
-
-La Finlandia, che nel 1941 aveva sostenuto i tedeschi nell’Operazione Barbarossa, firmò un armistizio con l’URSS. Anche l’Ungheria cercò un accordo con i sovietici, ma i tedeschi occuparono rapidamente il paese e diedero inizio a una nuova ondata di violenze, culminata con la deportazione e l’uccisione di circa 570.000 ebrei.
-
-In questo clima disperato, fu anche attentata la vita di Hitler. Tuttavia, l’attentato e il tentativo di colpo di stato fallirono, provocando una brutale repressione: circa 5.000 persone furono giustiziate.
+L’obiettivo principale della conferenza era pianificare la fase finale della guerra contro la Germania nazista e discutere l’apertura di un secondo fronte in Europa occidentale, che avrebbe poi portato allo sbarco in Normandia (Operazione Overlord) nel giugno del 1944. I leader discussero anche del futuro assetto postbellico dell’Europa e delle Nazioni Unite. La conferenza segnò un momento cruciale nella collaborazione tra le potenze alleate, ma gettò anche le basi per le tensioni della Guerra Fredda che seguirono.
 
 ---
 
