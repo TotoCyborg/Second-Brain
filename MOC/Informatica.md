@@ -2,9 +2,8 @@
 connections:
   - "[[Superiori]]"
 ---
-# Indice
+#moc 
+
 ```dataview
 list from [[]]
 ```
-
-#moc 

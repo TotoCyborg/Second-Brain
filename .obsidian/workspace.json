@@ -4,63 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "f9c8d75958eb537f",
+        "id": "45e7349e843d211b",
         "type": "tabs",
         "children": [
           {
-            "id": "83ef9d36cfb98f82",
+            "id": "095654916a3266b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Libertà Negate.md",
+                "file": "Programma di Fisica Quantistica e Astrofisica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Libertà Negate"
+              "title": "Programma di Fisica Quantistica e Astrofisica"
             }
           },
           {
-            "id": "9b783f520bbf95b3",
+            "id": "793c363b54cc9077",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Italiano_Libertà.md",
+                "file": "Percorsi/Storia_Progetti.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Italiano_Libertà"
-            }
-          },
-          {
-            "id": "e532fcaa1aaea482",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Storia_Libertà.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Storia_Libertà"
-            }
-          },
-          {
-            "id": "f0f674a579a4c069",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista grafo"
+              "title": "Storia_Progetti"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,6 +173,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "d6294e7c73fe8501",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
         "currentTab": 4
@@ -216,34 +202,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f0f674a579a4c069",
+  "active": "a6f3ccd97e0ecc54",
   "lastOpenFiles": [
-    "Storia_Libertà.md",
-    "Italiano_Libertà.md",
-    "Libertà Negate.md",
-    "Storia_Progetti.md",
-    "I Progetti Informatici.md",
-    "Italiano_Progetti.md",
-    "Storia_Social.md",
-    "Italiano_Social.md",
-    "Storia_Privacy.md",
-    "Social Media.md",
-    "Privacy, Rete e Sicurezza.md",
-    "Italiano_Privacy.md",
-    "MOC/Percorsi.md",
-    "Storia_WebToday.md",
-    "Guerra Fredda.md",
-    "Italiano_WebToday.md",
-    "The Web Today.md",
-    "MOC/Storia.md",
-    "MOC/Sistemi e Reti.md",
-    "Note/Toto che continua a non fidarsela di informatica.md",
-    "Note/Movimenti di Avanguardia.md",
-    "Note/Il Riarmo e la Guerra Civile Spagnola.md",
-    "Ossi di Seppia.md",
-    "Giuseppe Ungaretti.md",
+    "Percorsi/Social Media.md",
+    "Note/E-Commerce.md",
+    "Note/Criptography.md",
+    "Settimana 1.md",
+    "Note/Seconda Guerra Mondiale Completo.md",
+    "Programma di Fisica Quantistica e Astrofisica.md",
+    "Note/Dal big bang ai buchi neri.md",
+    "Normalizzazione.md",
+    "Note/Web Apps.md",
+    "Note/La documentazione dei requisiti.md",
+    "Listone Esame.md",
+    "Note/Principi S.O.L.I.D..md",
+    "Note/I Sistemi Distribuiti.md",
+    "Note/La specifica dei requisiti.md",
+    "Note/Raccolta e analisi dei requisiti.md",
+    "Note/Attori, casi d'uso e scenari.md",
     "Note/Ingegneria del Software.md",
-    "Eugenio Montale.md",
+    "Note/Toto che continua a non fidarsela di informatica.md",
+    "Grant e Revoke.md",
+    "Note/How to Use Web Safety.md",
+    "Orale",
+    "MySQL.md",
+    "Organizzazione mediante Database.md",
+    "Connessione con PHP.md",
+    "Inglese.md",
+    "Modellazione di Dati.md",
+    "MOC/Informatica.md",
+    "Percorsi",
     "image/Screenshot 2025-04-03 234218.png",
     "image/grafico_vel_media.png",
     "Tolc-I",

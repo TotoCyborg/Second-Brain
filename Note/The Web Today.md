@@ -34,3 +34,44 @@ Questo senso di **inquietudine, isolamento e impotenza** si collega direttamente
 > _“Ognuno sta solo sul cuor della terra...”_
 
 esprime una condizione esistenziale simile: **l’uomo moderno, immerso nel rumore del mondo, ma privo di contatto autentico e libertà interiore**.
+
+
+
+# Sistemi e Reti
+---
+
+*TCP/IP*
+
+Alla base del funzionamento del web moderno ci sono i **protocolli di comunicazione** TCP/IP e UDP, che consentono lo scambio di dati tra dispositivi in rete. Grazie a questi protocolli, possiamo navigare, inviare messaggi o accedere a servizi cloud in tempo reale. Tuttavia, la diffusione del web ha anche aumentato i rischi: **attacchi informatici**, furti di dati e minacce alla privacy sono sempre più frequenti. Per contrastarli, si usano strumenti come la **crittografia**, che protegge i dati attraverso l’uso di chiavi segrete, e le **VPN**, che garantiscono la sicurezza nella navigazione remota.
+
+
+# Informatica
+---
+
+*Basi di dati e DBMS*
+
+Il cuore pulsante del web moderno è rappresentato dai **dati**. Ogni sito, app o servizio digitale memorizza e gestisce grandi quantità di informazioni in **database**, gestiti da **DBMS**. Il **modello relazionale**, il **modello E/R** e la **normalizzazione** consentono di organizzare questi dati in modo efficiente e coerente. Linguaggi come **SQL** (per scrivere query) e **PHP** (per creare pagine dinamiche lato server) permettono di costruire applicazioni web interattive, personalizzate e sicure.
+
+
+# Gestione
+---
+
+Il web non è solo un canale di vendita o comunicazione: è diventato **uno strumento strategico di gestione aziendale**, influenzando in modo diretto la **struttura dei costi**.  Comprendere i costi fissi (es. hosting, infrastruttura), variabili (es. commissioni e spedizioni) e le metodologie analitiche (ABC, controllo di COGS/CAC) è essenziale per:
+
+- stabilire **prezzi competitivi**;
+- definire **strategie sostenibili**;
+- garantire **redditività e crescita**.
+
+Inoltre, la **digitalizzazione**, l’uso di cloud e software avanzati, consente di ridurre sprechi, ottimizzare risorse e migliorare la produttività in un mercato altamente competitivo e dinamico.
+
+
+# TPSIT
+---
+
+*Sistemi distribuiti*
+
+Dietro ogni sito web e piattaforma digitale si nascondono **sistemi distribuiti**, in cui più computer cooperano per fornire servizi stabili e scalabili. Le applicazioni web moderne funzionano attraverso **socket**, che permettono lo scambio dati in tempo reale tra client e server. Inoltre, lo sviluppo di questi sistemi richiede **ingegneria del software**, ovvero un insieme di metodi per progettare, testare e mantenere software complesso, con obiettivi di qualità, efficienza e manutenibilità.
+
+
+# Inglese
+---

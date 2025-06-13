@@ -1,6 +1,6 @@
 ---
 connections:
-  - "[[Inglese]]"
+  - "[[MOC/Inglese]]"
 source:
   - Prof. Lucia Colore
 ---
